@@ -29,10 +29,14 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+
+
 ```
 Developed by : HIRUTHIK SUDHAKAR
 Register number : 212223240054
 ```
+
+
 ```
 import numpy as np
 import math
@@ -75,6 +79,8 @@ else:
  
 
 # Output : 
+
+
 ![image](https://github.com/HIRU-VIRU/Poisson_distribution/assets/145972122/3093ef4c-a545-4951-8e07-db4ef7b4e2cc)
 
 
