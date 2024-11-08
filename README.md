@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d63ec84a-0758-4869-b212-8f7c4acca1a8" alt="Alt text" width="300">
 </p>
