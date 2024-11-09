@@ -3,7 +3,7 @@
 </p>
 
 # Traffic Men 
-A web-based project aimed at enhancing traffic management through real-time data visualization and incident reporting.
+A web-based project aimed at enhancing traffic management through real-time data visualization with historic data through optimized scheduling and routing.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ A web-based project aimed at enhancing traffic management through real-time data
 
 ## About
 
-Traffic Men is an innovative solution for monitoring and managing traffic patterns. By providing real-time traffic data and enabling users to report incidents, this project supports urban planning, traffic safety, and congestion management. The goal is to create a responsive and user-friendly platform to help cities and communities improve traffic flow and safety.
+Traffic Men is an innovative solution designed to monitor and manage traffic patterns. By delivering both real-time and historical traffic data, this project aims to support urban planning, enhance traffic safety, and manage congestion. Its objective is to provide a responsive and user-friendly platform to help cities and communities improve traffic flow and safety.
 
 
 ## Key Features
@@ -33,9 +33,7 @@ Traffic Men is an innovative solution for monitoring and managing traffic patter
 Explore the deployed version of Traffic Men at https://codedbykishore.github.io/traffic-men.github.io.
 
 We have also deployed a companion app addressing the project’s problem statement, which stands as our unique selling point (USP).
-Drive link: https://drive.google.com/file/d/1dgfqVJL29GeS4Y_QW3nRXnwdbJV8Bwmj/view?usp=drive_link
-
-
+App link: https://drive.google.com/file/d/1dgfqVJL29GeS4Y_QW3nRXnwdbJV8Bwmj/view?usp=drive_link
 
 
 ## Tech stack:
