@@ -28,7 +28,7 @@ Traffic Men is an innovative solution designed to monitor and manage traffic pat
 
 
 
-## Deployed site:
+## Deployed site
 
 Explore the deployed version of Traffic Men at https://codedbykishore.github.io/traffic-men.github.io.
 
@@ -36,14 +36,20 @@ We have also deployed a companion app addressing the project’s problem stateme
 App link: https://drive.google.com/file/d/1dgfqVJL29GeS4Y_QW3nRXnwdbJV8Bwmj/view?usp=drive_link
 
 
-## Tech stack:
+## Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,python,gcp,figma,vscode,git,js,sklearn,matlab,pycharm,androidstudio,bsd,bootstrap,)](https://skillicons.dev)
+
+## App Demo
+https://github.com/user-attachments/assets/0c70a59d-c29f-4175-93e6-5e7f9327639b
+
+
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Connect with us :
+## Connect with us
 
 Team members  | Connect 
 ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
